@@ -24,7 +24,7 @@ Bachelor of Computer Science (Bioinformatics) with Honours
 ## Contact
 
 - Email: yusranadatulalyeea@graduate.utm.my
-- GitHub: [johndoe](https://github.com/yusralyeea)
+- GitHub: [yusralyeea](https://github.com/yusralyeea)
 
 ## Hobbies
 
