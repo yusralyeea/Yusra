@@ -1,8 +1,7 @@
 # YUSRA NADATUL ALYEEA BINTI YUSRAMIZAL
 
 ## About Me
-Bachelor of Computer Science (Bioinformatics) with Honours at UTM
-I am a passionate to learn new things.
+Bachelor of Computer Science (Bioinformatics) with Honours
 
 ## Skills
 
